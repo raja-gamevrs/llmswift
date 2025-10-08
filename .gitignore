@@ -5,3 +5,5 @@
 .vscode/*
 .vscode/*/*
 CLAUDE.md
+models/*
+*.gguf
